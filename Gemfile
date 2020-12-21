@@ -3,6 +3,7 @@ source 'http://rubygems.org' do
         gem 'rspec'
         gem 'faker'
         gem 'factory_bot'
+        gem 'dotenv'
     end
 end
 
